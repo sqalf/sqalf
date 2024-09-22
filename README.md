@@ -9,7 +9,7 @@
 
 ###
 
-<h5 align="left">🎓 Systems Analysis and Development<br>📚 I'm currently learning Java<br>🎯 Goals: Full Srack</h5>
+<h5 align="left">🎓 Systems Analysis and Development<br>📚 I'm currently learning Python<br>🎯 Goals: Full Srack</h5>
 
 ###
 
